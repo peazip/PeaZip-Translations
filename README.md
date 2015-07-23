@@ -1,15 +1,20 @@
-PeaZip free archiver
+PeaZip Translations
 ======
 
-PeaZip is a free file archiver utility and rar extractor for Windows and Linux, work with 150+ archive types and variants (7z, ace, arc, bz2, cab, gz, iso, paq, pea, rar, tar, wim, zip, zipx...), handle spanned archives (001, r01, z01...) and support multiple archive encryption standards.
+To use additional translations, download the desired language file and copy it in PeaZip\res\lang\ folder.
+PeaZip is usually installed in C:\Program Files\PeaZip on Windows, or /usr/bin/PeaZip on Unix systems.
+If the language file is compressed, extract and copy in the aforementioned path the .txt file.
 
-The project aims to provide a cross-platform, portable, GUI frontend for multiple Open Source technologies (7-Zip, FreeArc, PAQ, PEA, UPX) focused on file and archive management, and security (strong encryption, two factor authentication, encrypted password manager, secure delete).
+To change PeaZip's language, use Options > Localization.
 
-The program is written in Lazarus / FreePascal (Windows installable packages are scripted with InnoSetup) and offers a LGPLv3 alternative to proprietary software (WinZip, WinRar, etc), running as native application on Windows/Win64, Wine/ReactOS, and Linux x86/x86-64, with Linux ARM and BSD ports also available.
+PeaZip comes with multiple language files, but since additional translations are made available asynchronously from third parts contributors, latest available translation for each language is featured here for separate download.
+Each x.y subfolder contains language file for a specific release, minor releases x.y.z shares the same text.
 
-Downloads http://www.peazip.org
+NOTE FOR TRANSLATORS
+Instructions about how to provide a translated language file is provided in peazip-x.y.z.about_translations.zip package, featured in: https://github.com/giorgiotani/PeaZip-Translations/releases/tag/x.y.0 subfolder.
+Translations are covered by GFDL copyleft license, and can be sent to support mail address giorgio.tani.software@gmail.com
 
-Add-ons and Plugin (UNRAR5, UNACE,...) http://www.peazip.org/peazip-add-ons.html
+PeaZip official domain http://www.peazip.org
 
 Support http://www.peazip.org/peazip-help.html
 
