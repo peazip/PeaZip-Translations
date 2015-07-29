@@ -12,6 +12,7 @@ Each x.y subfolder contains language file for a specific release, minor releases
 
 NOTE FOR TRANSLATORS
 Instructions about how to provide a translated language file is provided in peazip-x.y.z.about_translations.zip package, featured in github.com/giorgiotani/PeaZip-Translations/releases/tag/x.y.z subfolder.
+
 Translations are covered by GFDL copyleft license, and can be sent to support mail address giorgio.tani.software@gmail.com
 
 PeaZip official domain http://www.peazip.org
