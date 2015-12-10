@@ -17,6 +17,6 @@ Translations are covered by GFDL copyleft license, and can be sent to support ma
 
 PeaZip official domain http://www.peazip.org
 
-Support http://www.peazip.org/peazip-help.html
+PeaZip free archiver online help and tutorial http://www.peazip.org/peazip-help.html
 
-FAQ http://www.peazip.org/peazip-help-faq.html
+PeaZip project's Frequently Asked Questions http://www.peazip.org/peazip-help-faq.html
