@@ -15,8 +15,8 @@ Instructions about how to provide a translated language file is provided in peaz
 
 Translations are covered by GFDL copyleft license, and can be sent to support mail address giorgio.tani.software@gmail.com
 
-PeaZip official domain http://www.peazip.org
+PeaZip official domain https://www.peazip.org
 
-PeaZip free archiver online help and tutorial http://www.peazip.org/peazip-help.html
+PeaZip free archiver online help and tutorial https://www.peazip.org/peazip-help.html
 
-PeaZip project's Frequently Asked Questions http://www.peazip.org/peazip-help-faq.html
+PeaZip project's Frequently Asked Questions https://www.peazip.org/peazip-help-faq.html
