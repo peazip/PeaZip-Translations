@@ -11,12 +11,12 @@ PeaZip comes with multiple language files, but since additional translations are
 Each x.y subfolder contains language file for a specific release, minor releases x.y.z shares the same text.
 
 NOTE FOR TRANSLATORS
-Instructions about how to provide a translated language file is provided in peazip-x.y.z.about_translations.zip package, featured in github.com/giorgiotani/PeaZip-Translations/releases/tag/x.y.z subfolder.
+Instructions about how to provide a translated language file is provided in peazip-x.y.z.about_translations.zip package, featured in github.com/peazip/PeaZip-Translations/releases/tag/x.y.z subfolder.
 
 Translations are covered by GFDL copyleft license, and can be sent to support mail address giorgio.tani.software@gmail.com
 
-PeaZip official domain https://giorgiotani.github.io/PeaZip/
+PeaZip official domain https://peazip.github.io
 
-PeaZip free archiver online help and tutorial https://giorgiotani.github.io/PeaZip/peazip-help.html
+PeaZip free archiver online help and tutorial https://peazip.github.io/peazip-help.html
 
-PeaZip project's Frequently Asked Questions https://giorgiotani.github.io/PeaZip/peazip-help-faq.html
+PeaZip project's Frequently Asked Questions https://peazip.github.io/peazip-help-faq.html
