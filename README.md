@@ -1,8 +1,8 @@
 PeaZip Translations
 ======
 
-To use additional translations, download the desired language file and copy it in PeaZip\res\lang\ folder.
-PeaZip is usually installed in C:\Program Files\PeaZip on Windows, or /usr/bin/PeaZip on Unix systems.
+To use additional translations, download the desired language file and copy it in PeaZip/res/share/lang folder.
+PeaZip is usually installed in C:\Program Files\PeaZip on Windows, or /usr/bin/peazip on Unix systems.
 If the language file is compressed, extract and copy in the aforementioned path the .txt file.
 
 To change PeaZip's language, use Options > Localization.
