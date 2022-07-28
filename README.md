@@ -14,10 +14,10 @@ NOTE FOR TRANSLATORS
 
 Instructions about how to provide a translated language file is provided in peazip-x.y.z.about_translations.zip package, featured in github.com/peazip/PeaZip-Translations/releases/tag/x.y.z subfolder.
 
-Translations are covered by GFDL copyleft license, and can be sent to support mail address giorgio.tani.software@gmail.com
+Translations are covered by GFDL copyleft license, and can be sent to support email address giorgio.tani.software@gmail.com
 As alternative method, language files can be directly updated on Git repository so commits can be evaluated and merged in the online code base:
-https://github.com/peazip/PeaZip/tree/welcome/peazip-sources/res/share/lang (language files)
-https://github.com/peazip/PeaZip/tree/welcome/peazip-sources/res/share/lang-wincontext (W7+ context menu items)
+https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang (language files)
+https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang-wincontext (Win 7+ context menu items)
 
 PeaZip official domain https://peazip.github.io
 
