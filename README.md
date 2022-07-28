@@ -16,8 +16,8 @@ Instructions about how to provide a translated language file is provided in peaz
 
 Translations are covered by GFDL copyleft license, and can be sent to support email address giorgio.tani.software@gmail.com
 As alternative method, language files can be directly updated on Git repository so commits can be evaluated and merged in the online code base:
-https://github.com/peazip/PeaZip/tree/welcome/peazip-sources/res/share/lang (language files)
-https://github.com/peazip/PeaZip/tree/welcome/peazip-sources/res/share/lang-wincontext (Win 7+ context menu items)
+https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang (language files)
+https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang-wincontext (Win 7+ context menu items)
 
 PeaZip official domain https://peazip.github.io
 
