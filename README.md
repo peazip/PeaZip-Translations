@@ -26,3 +26,5 @@ PeaZip official domain https://peazip.github.io
 PeaZip free archiver online help and tutorial https://peazip.github.io/peazip-help.html
 
 PeaZip project's Frequently Asked Questions https://peazip.github.io/peazip-help-faq.html
+
+Translated context menu Windows 7+ https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
