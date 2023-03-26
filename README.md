@@ -11,11 +11,12 @@ PeaZip comes with multiple language files, but since additional translations are
 Each x.y subfolder contains language file for a specific release, minor releases x.y.z shares the same text.
 
 On Windows systems, context menu and SendTo menu items can be translated independently from the text of the main app.
-Context menu entries are avaliable as .reg scripts, and SendTo menu links being .lnk files available in (peazip)\res\share\batch folder.
 
-Translated context menu Windows 7+ https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
+Windows 7+ context menu entries are avaliable as .reg scripts in (peazip)\res\share\lang-wincontext folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
 
-Translated SendTo menu links https://github.com/peazip/PeaZip-Translations/releases/tag/0
+Windows 11 mini-context menu entries are available as .reg scripts too, in (peazip)\res\share\batch folder.
+
+SendTo menu entries are .lnk files (changing the link file name changes the text in the SendTo menu entry) available in (peazip)\res\share\batch folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0
 
 Note For Translators
 ------
