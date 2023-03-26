@@ -10,6 +10,11 @@ To change PeaZip's language, use Options > Localization.
 PeaZip comes with multiple language files, but since additional translations are made available asynchronously from third parts contributors, latest available translation for each language is featured here for separate download.
 Each x.y subfolder contains language file for a specific release, minor releases x.y.z shares the same text.
 
+On Windows systems, context menu and SendTo menu items can be translated independently from the text of the main app.
+Context menu entries are avaliable as .reg scripts, and SendTo menu links being .lnk files available in (peazip)\res\share\batch folder.
+Translated context menu Windows 7+ https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
+Translated SendTo menu links https://github.com/peazip/PeaZip-Translations/releases/tag/0
+
 Note For Translators
 ------
 
@@ -26,5 +31,3 @@ PeaZip official domain https://peazip.github.io
 PeaZip free archiver online help and tutorial https://peazip.github.io/peazip-help.html
 
 PeaZip project's Frequently Asked Questions https://peazip.github.io/peazip-help-faq.html
-
-Translated context menu Windows 7+ https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
