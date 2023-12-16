@@ -12,11 +12,11 @@ Each x.y subfolder contains language file for a specific release, minor releases
 
 On Windows systems, context menu and SendTo menu items can be translated independently from the text of the main app.
 
+SendTo menu entries are .lnk files (changing the link file name changes the text in the SendTo menu entry) available in (peazip)\res\share\batch folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0
+
 Windows 7+ context menu entries are avaliable as .reg scripts in (peazip)\res\share\lang-wincontext folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0.0
 
-Windows 11 mini-context menu entries are available as .reg scripts too, in (peazip)\res\share\batch folder.
-
-SendTo menu entries are .lnk files (changing the link file name changes the text in the SendTo menu entry) available in (peazip)\res\share\batch folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0
+Windows 11 mini-context menu entries are available as .reg scripts too, in (peazip)\res\share\batch folder, and contributed translations are in https://github.com/peazip/PeaZip-Translations/releases/tag/0.1
 
 Note For Translators
 ------
@@ -25,7 +25,9 @@ Instructions about how to provide a translated language file is provided in peaz
 
 Translations are covered by [GFDL copyleft license](https://www.gnu.org/licenses/fdl-1.3.html), and can be sent to support email address giorgio.tani.software@gmail.com. As alternative method, language files can be directly updated on Git repository so commits can be evaluated and merged in the online code base:
 * https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang (language files)
+* https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/batch/Windows/SendTo (SendTo menu items)
 * https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/lang-wincontext (Windows 7+ context menu items)
+* https://github.com/peazip/PeaZip/tree/sources/peazip-sources/res/share/batch/Windows/Windows%2011%20mini%20context%20menu (Windows 11 mini-context menu items)
 
 Additional links:
 
